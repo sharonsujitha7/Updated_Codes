@@ -1,0 +1,23 @@
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+
+input[type=int], select, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+.form-control {
+    font-size: 0.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    width: 350px;
+    
+}
